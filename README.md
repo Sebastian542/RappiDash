@@ -1,6 +1,13 @@
 # Rappi Store Availability Intelligence Dashboard
 ### RappiMakers 2026 — Prueba Técnica
 ![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](./dashboard2.png)
+![Dashboard Preview](./dashboard3.png)
+![Dashboard Preview](./dashboard4.png)
+![Dashboard Preview](./dashboard5.png)
+![Dashboard Preview](./dashboard6.png)
+![Dashboard Preview](./dashboard7.png)
+
 ---
 
 ## 🏗️ Stack
